@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Yifan Yang
 
 - 🌱 I’m currently working on Differential Gene Analysis
 - 🏫 I'm currently a master student in University of Waterloo, major in biostatistics
@@ -6,5 +6,4 @@
   - 🌐 Website: 
   - 📩 Email: [amberyyf0911@gmail.com](mailto:amberyyf0911@gmail.com)
 - 👧 Pronouns: She/Her
-- ❤ Hiking🥾, Skating⛸
 - 🐕 Pet: I have a cute girl dog named Pidan
