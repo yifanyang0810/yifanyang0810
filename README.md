@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yifan Yang
 
-- 🌱 I’m currently working on Differential Gene Analysis
-- 🏫 I'm currently a master student in University of Waterloo, major in biostatistics
+- 🌱 BIoinformatician with RNA Sequencing analysis
+- 🏫 Msc. in University of Waterloo, majoring in biostatistics/bioinformatics
 - 📫 How to reach me:
   - 🌐 Website: 
   - 📩 Email: [amberyyf0911@gmail.com](mailto:amberyyf0911@gmail.com)
