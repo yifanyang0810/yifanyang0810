@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yifan Yang
 
-- 🌱 BIoinformatician with RNA Sequencing analysis
+- 🌱 BIoinformatician, Data Scientist
 - 🏫 Msc. in University of Waterloo, majoring in biostatistics/bioinformatics
 - 📫 How to reach me:
   - 🌐 Website: 
